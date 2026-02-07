@@ -28,4 +28,4 @@ I am building projects and following the curriculum from **The Web3Compass** You
 ---
 ### 🔗 Connect with Me
 Follow my daily updates and insights on X (Twitter):
-[Put Your Twitter Link Here]
+(https://x.com/dkyosef200)
