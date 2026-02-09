@@ -10,8 +10,8 @@ contract SaveMyName {
     Person[]  person;
 
     function saveName(
-        string memory _name, 
-        string memory _bio, 
+        string calldata _name, 
+        string calldata _bio, 
         uint _age) public {
 
             person.push(Person(_name, _bio, _age));
