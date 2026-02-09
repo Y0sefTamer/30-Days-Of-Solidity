@@ -15,7 +15,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | :---: | :--- | :--- | :---: |
 | **Day 01** | Click Counter | Basics, Data Types, Functions | [View Code](./Day01/ClickCounter.sol) |
 | **Day 02** | SaveMyName | State variables (string, bool), Storage and retrieval , struct | [View Code](./Day02/SaveMyName.sol) |
-| **Day 03** | ... | ... | ... |
+| **Day 03** | PollStation  | Arrays (uint[]), Mappings (mapping(address => uint)), Simple voting logic | [View Code](./Day03/PollStation.sol) |
 | **Day 04** | ... | ... | ... |
 
 *(This table is updated daily)*
