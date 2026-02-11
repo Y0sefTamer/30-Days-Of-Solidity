@@ -17,6 +17,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 02** | SaveMyName | State variables (string, bool), Storage and retrieval , struct | [View Code](./Day02/SaveMyName.sol) |
 | **Day 03** | PollStation  | Arrays (uint[]), Mappings (mapping(address => uint)), Simple voting logic | [View Code](./Day03/PollStation.sol) |
 | **Day 04** | AuctionHouse | Payable, Time (block.timestamp), if/else statements, Basic bidding | [View Code](./Day04/AuctionHouse.sol) |
+| **Day 05** | AdminOnly | Modifiers, msg.sender for ownership, Basic access control, Event | [View Code](./Day05/AdminOnly.sol) |
 
 *(This table is updated daily)*
 
