@@ -18,6 +18,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 03** | PollStation  | Arrays (uint[]), Mappings (mapping(address => uint)), Simple voting logic | [View Code](./Day03/PollStation.sol) |
 | **Day 04** | AuctionHouse | Payable, Time (block.timestamp), if/else statements, Basic bidding | [View Code](./Day04/AuctionHouse.sol) |
 | **Day 05** | AdminOnly | Modifiers, msg.sender for ownership, Basic access control, Event | [View Code](./Day05/AdminOnly.sol) |
+| **Day 06** | EtherPiggyBank | Deposits and withdrawals, msg.sender, address(this).balance | [View Code](./Day06/EtherPiggyBank.sol) |
 
 *(This table is updated daily)*
 
