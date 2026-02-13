@@ -19,6 +19,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 04** | AuctionHouse | Payable, Time (block.timestamp), if/else statements, Basic bidding | [View Code](./Day04/AuctionHouse.sol) |
 | **Day 05** | AdminOnly | Modifiers, msg.sender for ownership, Basic access control, Event | [View Code](./Day05/AdminOnly.sol) |
 | **Day 06** | EtherPiggyBank | Deposits and withdrawals, msg.sender, address(this).balance | [View Code](./Day06/EtherPiggyBank.sol) |
+| **Day 07** | SimpleIOU | Week 1 Done! 🎉 token transfer, Debt Logic, validation (require) | [View Code](./Day07/SimpleIOU.sol) |
 
 *(This table is updated daily)*
 
