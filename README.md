@@ -21,6 +21,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 06** | EtherPiggyBank | Deposits and withdrawals, msg.sender, address(this).balance | [View Code](./Day06/EtherPiggyBank.sol) |
 | **Day 07** | SimpleIOU | Week 1 Done! 🎉 token transfer, Debt Logic, validation (require) | [View Code](./Day07/SimpleIOU.sol) |
 | **Day 08** | TipJar | denominations, conversion, payable | [View Code](./Day08/TipJar.sol) |
+| **Day 09** | Calculator System | Contract Interaction (Call vs High-Level), Modularity | [View Code](./Day09) |
 
 *(This table is updated daily)*
 
