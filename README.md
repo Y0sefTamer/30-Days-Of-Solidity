@@ -23,6 +23,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 08** | TipJar | denominations, conversion, payable | [View Code](./Day08/TipJar.sol) |
 | **Day 09** | Calculator System | Contract Interaction (Call vs High-Level), Modularity | [View Code](./Day09) |
 | **Day 10** | ActivityTracker | Structs, Arrays, User History, Events | [View Code](./Day10/ActivityTracker.sol) |
+| **Day 11** | Vault System | Inheritance (is), Modifiers, OpenZeppelin Style | [View Code](./Day11) |
 
 *(This table is updated daily)*
 
