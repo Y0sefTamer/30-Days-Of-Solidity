@@ -24,6 +24,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 09** | Calculator System | Contract Interaction (Call vs High-Level), Modularity | [View Code](./Day09) |
 | **Day 10** | ActivityTracker | Structs, Arrays, User History, Events | [View Code](./Day10/ActivityTracker.sol) |
 | **Day 11** | Vault System | Inheritance (is), Modifiers, OpenZeppelin Style | [View Code](./Day11) |
+| **Day 12** | SimpleERC20 | Token Standard, Allowance, Approve, ERC20 interface, totalSupply | [View Code](./Day12/SimpleERC20.sol) |
 
 *(This table is updated daily)*
 
