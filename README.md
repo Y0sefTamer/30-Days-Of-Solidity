@@ -28,6 +28,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 13** | SimplifiedTokenSale | ERC-20 Presale, Time-bound, Transfer Locks | [View Code](./Day13) |
 | **Day 14** | Modular Vault System | Interfaces, Abstract Contracts, Factory Pattern | [View Code](./Day14) |
 | **Day 15** | GasEfficientVoting | Halfway! 🎉 Gas Optimization, Bitmaps, Mappings | [View Code](./Day15) |
+| **Day 16** | PluginStore | Modular Architecture, delegatecall, staticcall | [View Code](./Day16) |
 
 *(This table is updated daily)*
 
