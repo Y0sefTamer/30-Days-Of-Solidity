@@ -29,6 +29,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 14** | Modular Vault System | Interfaces, Abstract Contracts, Factory Pattern | [View Code](./Day14) |
 | **Day 15** | GasEfficientVoting | Halfway! 🎉 Gas Optimization, Bitmaps, Mappings | [View Code](./Day15) |
 | **Day 16** | PluginStore | Modular Architecture, delegatecall, staticcall | [View Code](./Day16) |
+| **Day 17** | SubscriptionStorage | Proxy Pattern, Upgradeable Contracts (V1 to V2) | [View Code](./Day17) |
 
 *(This table is updated daily)*
 
