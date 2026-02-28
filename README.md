@@ -33,6 +33,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 18** | CropInsurance & Oracle | Chainlink Simulation, Real-world Data, Automated Payouts | [View Code](./Day18) |
 | **Day 19** | EventEntry | Off-chain Signatures, Gasless Whitelists, Cryptography | [View Code](./Day19) |
 | **Day 20** | GoldVault & GoldThief | Smart Contract Security, Reentrancy Attacks, ReentrancyGuard | [View Code](./Day20) |
+| **Day 21** | SimpleNFT | ERC-721 Standard, TokenURI, Metadata, Testnet Minting | [View Code](./Day21) |
 
 *(This table is updated daily)*
 
