@@ -44,4 +44,13 @@ contract SimpleLending {
         borrowBalances[msg.sender] = currentDebt - msg.value;
         lastInterestAccrualTimestamp[msg.sender] = block.timestamp;
     }
+
+    function getMaxBorrowAmount(address user) external view returns (uint256) {
+        return (collateralBalances[user] * collateralFactorBasisPoints) / 10000;
+    }
+
+    function getTotalLiquidity() external view returns (uint256) {
+        return address(this).balance;
+    }
+
 }
