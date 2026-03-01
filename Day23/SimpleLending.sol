@@ -17,15 +17,21 @@ contract SimpleLending {
         collateralBalances[msg.sender] += msg.value;
     }
 
-    function calculateInterestAccrued(address user) public view returns (uint256) {
+    function calculateInterestAccrued(
+        address user
+    ) public view returns (uint256) {
         if (borrowBalances[user] == 0) return 0;
-        uint256 timeElapsed = block.timestamp - lastInterestAccrualTimestamp[user];
-        uint256 interest = (borrowBalances[user] * interestRateBasisPoints * timeElapsed) / (10000 * 365 days);
+        uint256 timeElapsed = block.timestamp -
+            lastInterestAccrualTimestamp[user];
+        uint256 interest = (borrowBalances[user] *
+            interestRateBasisPoints *
+            timeElapsed) / (10000 * 365 days);
         return borrowBalances[user] + interest;
     }
 
     function borrow(uint256 amount) external {
-        uint256 maxBorrow = (collateralBalances[msg.sender] * collateralFactorBasisPoints) / 10000;
+        uint256 maxBorrow = (collateralBalances[msg.sender] *
+            collateralFactorBasisPoints) / 10000;
         uint256 currentDebt = calculateInterestAccrued(msg.sender);
         require(currentDebt + amount <= maxBorrow, "Exceeds limit");
         borrowBalances[msg.sender] = currentDebt + amount;
