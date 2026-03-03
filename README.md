@@ -37,6 +37,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 22** | FairChainLottery | Chainlink VRF, Provable Randomness, State Machine (Enums) | [View Code](./Day22) |
 | **Day 23** | SimpleLending | DeFi, Collateralized Loans, Interest Accrual | [View Code](./Day23) |
 | **Day 24** | EnhancedSimpleEscrow | Access Control, Dispute Resolution, State Machine (Enums) | [View Code](./Day24) |
+| **Day 25** | Automated Market Maker | DEX Engine, AMM Math (x*y=k), Liquidity Pools | [View Code](./Day25) |
 
 *(This table is updated daily)*
 
