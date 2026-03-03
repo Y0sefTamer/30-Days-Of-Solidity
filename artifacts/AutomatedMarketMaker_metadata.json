@@ -775,11 +775,11 @@
 			]
 		},
 		"Day25/AutomatedMarketMaker.sol": {
-			"keccak256": "0x2997362a13e0c8e41c3d4973fb224a09b94cd06938e072da109cedb2996f8286",
+			"keccak256": "0x14d38e5a6d6504e173e0dace49526b345a21db6736bc067dd9f7cb85b37082af",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0a571906eb28a66ecd54db0f547c6f8982138af789d69ee812e4d4214154069f",
-				"dweb:/ipfs/QmPAhpaLM4WDSCB2ghhsSo8MvNGBowR9iLJ47mhsGd3Yvd"
+				"bzz-raw://3814b990efe428f4d06da79221112f5145fa213773b53179badc078a2b6233af",
+				"dweb:/ipfs/QmXmg5D6LMsSSb5cYTS5JEq2HsRgdpk9nAqPWpZBg4Tzxt"
 			]
 		}
 	},
