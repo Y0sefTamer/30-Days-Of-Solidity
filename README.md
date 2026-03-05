@@ -39,6 +39,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 24** | EnhancedSimpleEscrow | Access Control, Dispute Resolution, State Machine (Enums) | [View Code](./Day24) |
 | **Day 25** | Automated Market Maker | DEX Engine, AMM Math (x*y=k), Liquidity Pools | [View Code](./Day25) |
 | **Day 26** | NFTMarketplace | On-chain Store, Royalties, Platform Fees | [View Code](./Day26) |
+| **Day 27** | Yield Farming | DeFi, Staking, Reward Calculation, ERC-20 Security | [View Code](./Day27) |
 
 *(This table is updated daily)*
 
