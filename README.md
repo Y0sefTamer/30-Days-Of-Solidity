@@ -38,6 +38,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 23** | SimpleLending | DeFi, Collateralized Loans, Interest Accrual | [View Code](./Day23) |
 | **Day 24** | EnhancedSimpleEscrow | Access Control, Dispute Resolution, State Machine (Enums) | [View Code](./Day24) |
 | **Day 25** | Automated Market Maker | DEX Engine, AMM Math (x*y=k), Liquidity Pools | [View Code](./Day25) |
+| **Day 26** | NFTMarketplace | On-chain Store, Royalties, Platform Fees | [View Code](./Day26) |
 
 *(This table is updated daily)*
 
