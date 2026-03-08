@@ -41,6 +41,7 @@ I am building projects and following the curriculum from **The Web3Compass** You
 | **Day 26** | NFTMarketplace | On-chain Store, Royalties, Platform Fees | [View Code](./Day26) |
 | **Day 27** | Yield Farming | DeFi, Staking, Reward Calculation, ERC-20 Security | [View Code](./Day27) |
 | **Day 28** | Decentralized Governance | DAOs, On-chain Voting, Proposal Execution | [View Code](./Day28) |
+| **Day 29** | SimpleStablecoin | Stablecoins, Pegging Mechanisms, Mint/Burn Logic, DeFi | [View Code](./Day29) |
 
 *(This table is updated daily)*
 
